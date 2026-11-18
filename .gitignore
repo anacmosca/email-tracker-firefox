@@ -1,0 +1,7 @@
+﻿node_modules/
+.wrangler/
+dist/*.zip
+dist/*.xpi
+.DS_Store
+*.log
+.playwright-mcp/
